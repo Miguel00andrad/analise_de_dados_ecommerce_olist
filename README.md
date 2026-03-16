@@ -40,4 +40,4 @@ Com base nos dados levantados, a recomendação para a diretoria de operações 
 2. **Foco na Redução do Tempo de Trânsito:** O barateamento do frete e a entrega mais rápida são os fatores primários que irão alavancar a recuperação do NPS global da operação e destravar a expansão comercial em estados fora do eixo Sudeste.
 
 ---
-*Projeto desenvolvido para fins de estudo e composição de portfólio em Análise de Dados.*
+
